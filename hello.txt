@@ -1,1 +1,4 @@
+ HEAD
 This is the master branch
+This is a master branch
+ conflict
